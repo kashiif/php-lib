@@ -1,0 +1,3 @@
+[submodule "src/wp_log"]
+	path = src/wp_log
+	url = https://gist.github.com/5064359.git
